@@ -1,12 +1,12 @@
 # EtheralCrypto
 
-![Image description](Capture.PNG)
-![Image description](Capture1.PNG)
-![Image description](Viz_Screen.PNG)
-![Image description](Viz1_Screen.PNG)
-![Image description](lgbm_importances.PNG)
-![Image description](Viz3_Screen.PNG)
-![Image description](Viz4_Screen.PNG)
-![Image description](Viz5_Screen.PNG)
+![Image description](Images/Capture.PNG)
+![Image description](Images/Capture1.PNG)
+![Image description](Images/Viz_Screen.PNG)
+![Image description](Images/Viz1_Screen.PNG)
+![Image description](Images/lgbm_importances.PNG)
+![Image description](Images/Viz3_Screen.PNG)
+![Image description](Images/Viz4_Screen.PNG)
+![Image description](Images/Viz5_Screen.PNG)
 
 
